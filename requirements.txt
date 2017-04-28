@@ -1,0 +1,5 @@
+Django==1.11
+wheel==0.29.0
+setuptools==27.2.0
+pylint==1.7.1
+pylint-django==0.7.2
